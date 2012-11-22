@@ -1,3 +1,22 @@
-dddnnnnnmm
+this is a test turkey
 
-mmmm
+today is thanksgiving
+
+
+To remove a local branch from your machine:
+
+git branch -d the_local_branch
+
+To remove a remote branch:
+
+git push origin :the_remote_branch
+
+*Taken from here.
+ 
+
+
+turkey 33333
+
+
+
+share|improve this answer 
